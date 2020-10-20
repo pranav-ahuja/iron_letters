@@ -1,0 +1,10 @@
+Iron Letters template.
+How to use it.
+1. Open the Iron Letters template.
+2. Use 'Background_texture' composition and 'Iron_texture' composition to add a texture.
+Texture is not included. But you can try this: https://www.google.ru/search?q=iron+texture&newwindow=1&safe=off&tbm=isch&tbo=u&source=univ&sa=X&ei=k-2hUsevDomL4ATTn4GwBA&ved=0CCcQsAQ&biw=1270&bih=1251
+3.  Use 'Logotype_here' composition to add your logotype or text. I used the 'Lobster 1.4' font for preview video of this template.
+4. To edit a shape of your text or logotype use 'Edit_shapes_here' composition. Open 'Edit_shapes_here' composition and select any layer. 
+Open effects control viewer. Edit 'Roughen' and 'Stroke_size' sliders. It's necessary when your logotype or text have very thin shape.
+5. To render use 'Render_it' composition.
+Audio file is not included. You can find it here: http://audiojungle.net/item/epic-industrial-logo-intro/2580028?WT.ac=solid_search_thumb&WT.seg_1=solid_search_thumb&WT.z_author=guitarsstate 

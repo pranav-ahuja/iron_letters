@@ -1,0 +1,102 @@
+Report created: 
+	03.12.2013	21:46:54
+
+Project name: Iron_letters.aep
+
+Source files collected to: 
+	C:\_Videohive\Iron_letters\Iron_letters
+
+Source files collected: All
+
+Collected comps:  
+	Logotype_here
+	Pre_comp_01
+	Iron_texture
+	Pre-comp_02
+	Flame_texture
+	Pre-comp_03
+	Shadows
+	Bevel
+	pre-Bevel
+	Background_texture
+	Scene_04
+	DOF
+	Render_it
+	Scene_01
+	pre-comp_03
+	Pre-comp_04
+	Pre-comp_05
+	DOF_2
+	Scene_02
+	Pre-comp_06
+	Resize
+	Pre-comp_07
+	DOF_03
+	Scene_03
+	Pre-comp_08
+	Pre-comp_09
+	DOF_04
+	Edit_shapes_here
+	Resize_02
+	Heat
+	heat_mask
+	
+Number of collected files:  6
+
+Size of collected files:  243 MB
+
+Collected source files: 
+	C:\_Videohive\Iron_letters\Dust_Scene_01.mov
+	C:\_Videohive\Iron_letters\Grinder.mov
+	C:\_Videohive\Iron_letters\Grinder_02.mov
+	C:\_Videohive\Iron_letters\Grinder_sparks.mov
+	C:\_Videohive\Iron_letters\Grinder_sparks_02.mov
+	C:\_Videohive\Iron_letters\Scene_04_particles.mov
+	
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  18
+
+Effect:  4-Color Gradient
+	
+Effect:  Bevel Alpha
+	
+Effect:  Box Blur
+	
+Effect:  Curves
+	
+Effect:  Directional Blur
+	
+Effect:  Exposure
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Hue/Saturation
+	
+Effect:  Lens Blur
+	
+Effect:  Levels
+	
+Effect:  Radial Shadow
+	
+Effect:  Roughen Edges
+	
+Effect:  Slider Control
+	
+Effect:  Tritone
+	
+Effect:  Turbulent Displace
+	
+Effect:  Turbulent Noise
+	
+Effect:  Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: 'Arial', Font style: 'Bold Italic'
+		Font family: 'Arial', Font style: 'Regular'
+
